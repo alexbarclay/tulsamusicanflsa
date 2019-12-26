@@ -5,7 +5,7 @@ Tulsa has an amazing music community, this broader goal of this inititive is to 
 File a wage complaint or talk to DOL WHD at 1-866-487-9243
 
 ## To-Do 
-- Connect with a labor rights organization 
+- Connect with a labor rights organization (reached out to AFM on 12/26/19) 
 - Create database of musican employers and learn how they classify musicians 
 -- Snailmail education campaign
 - Create a mailing list 
