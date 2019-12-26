@@ -17,6 +17,7 @@ File a wage complaint or talk to DOL WHD at 1-866-487-9243
 
 ## Organizations that seem to follow FLSA wrt 1099/W2
 - Trinity 
+- Symphony (Union) 
  
 ## Organizations that do NOT seem to follow FLSA wrt 1099/W2
 - Tulsa Camerata
