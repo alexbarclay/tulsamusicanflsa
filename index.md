@@ -4,7 +4,7 @@ Tulsa has an amazing music community, this broader goal of this inititive is to 
 This is not legal advice - contact the Tulsa Country Bar for a referral. 
 
 ## What is the problem with being an indepdendent contractor?
-- Not protected as an employee 
+- No employee protections
 - Treats the musician as self employed from a tax perspective, but doesn't provide the freedom of true self employment 
    - Must pay around 15.5% as a self-employment tax for social security and medicare
    - May have to file quartley taxes
