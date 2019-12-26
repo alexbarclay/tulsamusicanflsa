@@ -44,3 +44,4 @@ File a wage complaint or talk to DOL WHD at 1-866-487-9243
 - https://www.natlawreview.com/article/sour-note-musicians-are-employees-not-independent-contractors-nlrb-tells-theater
 - https://financeformusicians.com/are-orchestra-musicians-independent-contractors/
 - https://medium.com/@erlyon/musicians-are-employees-after-all-4e8a4ebdf595
+- http://www.catholiccincinnati.org/wp-content/uploads/2010/10/Status-and-Pay-of-Parish-Musicians.pdf
