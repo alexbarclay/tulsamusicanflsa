@@ -30,3 +30,4 @@ File a wage complaint or talk to DOL WHD at 1-866-487-9243
 - https://www.irs.gov/pub/irs-pdf/p15a.pdf
 - https://www.irs.gov/publications/p15
 - https://www.dol.gov/agencies/whd/flsa/misclassification
+- https://www.natlawreview.com/article/sour-note-musicians-are-employees-not-independent-contractors-nlrb-tells-theater
