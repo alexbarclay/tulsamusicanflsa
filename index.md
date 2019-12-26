@@ -26,7 +26,7 @@ File a wage complaint or talk to DOL WHD at 1-866-487-9243
 - Letter to Musical Director/Pastor
 - Letter to Board, Vestory, etc
 - Musican's Rights Single Page
-- Direct Action Flyer
+- Direct Action Example Flyer - 
 - Direct Action Example Signs 
 
 ## Investigating 
