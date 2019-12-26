@@ -25,7 +25,9 @@ File a wage complaint or talk to DOL WHD at 1-866-487-9243
 ## Advocacy Kit
 - Letter to Musical Director/Pastor
 - Letter to Board, Vestory, etc
+- Musican's Rights Single Page
 - Direct Action Flyer
+- Direct Action Example Signs 
 
 ## Additional Resources 
 - American Guild of Organists FTC Settlement Language - https://www.agohq.org/careers/ftccompliance-employee-vs-ind-contr/
