@@ -29,6 +29,9 @@ File a wage complaint or talk to DOL WHD at 1-866-487-9243
 - Direct Action Flyer
 - Direct Action Example Signs 
 
+## Investigating 
+- AFM Fair Trade Music https://www.afm.org/what-we-are-doing/current-campaigns/fair-trade-music/#why
+
 ## Additional Resources 
 - American Guild of Organists FTC Settlement Language - https://www.agohq.org/careers/ftccompliance-employee-vs-ind-contr/
 - https://www.xpastor.org/staffing/compensation/church-musicians-employees-or-independent-contractors/
