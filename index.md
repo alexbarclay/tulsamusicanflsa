@@ -22,7 +22,7 @@ Tulsa has an amazing music community, this broader goal of this inititive is to 
 - American Guild of Organists FTC Settlement Language - https://www.agohq.org/careers/ftccompliance-employee-vs-ind-contr/
 - https://www.xpastor.org/staffing/compensation/church-musicians-employees-or-independent-contractors/
 - https://www.flumc.org/files/fileslibrary/human+resources/flsa+questions+&+answers.pdf
--- "May wejust make ourChoir Director a contractor?No.The IRS ruled recently that musicians who are paid to perform at weekly services are considered employees of the church and are not independent contractors.  If you tell the musician when, where and/or how to play, they are not independent contractors.  They are your employees and may becovered by the FLSA."
+-- May wejust make ourChoir Director a contractor?No.The IRS ruled recently that musicians who are paid to perform at weekly services are considered employees of the church and are not independent contractors.  If you tell the musician when, where and/or how to play, they are not independent contractors.  They are your employees and may becovered by the FLSA.
 - https://www.sgaumc.org/employeeorindependentcontractor
 - https://www.irs.gov/pub/irs-pdf/p15a.pdf
 - https://www.irs.gov/publications/p15
