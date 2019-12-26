@@ -22,7 +22,12 @@ File a wage complaint or talk to DOL WHD at 1-866-487-9243
 ## Organizations that do NOT seem to follow FLSA wrt 1099/W2
 - Tulsa Camerata
 
-## Resources 
+## Advocacy Kit
+- Letter to Musical Director/Pastor
+- Letter to Board, Vestory, etc
+- Direct Action Flyer
+
+## Additional Resources 
 - American Guild of Organists FTC Settlement Language - https://www.agohq.org/careers/ftccompliance-employee-vs-ind-contr/
 - https://www.xpastor.org/staffing/compensation/church-musicians-employees-or-independent-contractors/
 - https://www.flumc.org/files/fileslibrary/human+resources/flsa+questions+&+answers.pdf
