@@ -7,12 +7,12 @@ File a wage complaint or talk to DOL WHD at 1-866-487-9243
 ## To-Do 
 - Connect with a labor rights organization (reached out to AFM on 12/26/19) 
 - Create database of musican employers and learn how they classify musicians 
--- Snailmail education campaign
+   - Snailmail education campaign
 - Create a mailing list 
 
 ## Initiatives
 - Merrit's Bakery (precursor advocacy - completed)
--- Shared FLSA poster with sections highlited that counterdict employee handbook
+   - Shared FLSA poster with sections highlited that counterdict employee handbook
 - St. John's (No response to discussion requests, direct advocacy) 
 
 ## Organizations that seem to follow FLSA wrt 1099/W2
@@ -31,7 +31,7 @@ File a wage complaint or talk to DOL WHD at 1-866-487-9243
 - American Guild of Organists FTC Settlement Language - https://www.agohq.org/careers/ftccompliance-employee-vs-ind-contr/
 - https://www.xpastor.org/staffing/compensation/church-musicians-employees-or-independent-contractors/
 - https://www.flumc.org/files/fileslibrary/human+resources/flsa+questions+&+answers.pdf
--- May wejust make ourChoir Director a contractor?No.The IRS ruled recently that musicians who are paid to perform at weekly services are considered employees of the church and are not independent contractors.  If you tell the musician when, where and/or how to play, they are not independent contractors.  They are your employees and may becovered by the FLSA.
+   - May wejust make ourChoir Director a contractor?No.The IRS ruled recently that musicians who are paid to perform at weekly services are considered employees of the church and are not independent contractors.  If you tell the musician when, where and/or how to play, they are not independent contractors.  They are your employees and may becovered by the FLSA.
 - https://www.sgaumc.org/employeeorindependentcontractor
 - https://www.irs.gov/pub/irs-pdf/p15a.pdf
 - https://www.irs.gov/publications/p15
