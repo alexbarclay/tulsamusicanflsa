@@ -1,6 +1,15 @@
 ## Goals
 Tulsa has an amazing music community, this broader goal of this inititive is to ensure that every musician is treated correctly under the laws of our state and country. Due to the high incidence of wage theft from musicans's  - our initial focus will be to advocate for correct classification of musicians as employees as opposed to independent contractors. 
 
+This is not legal advice - contact the Tulsa Country Bar for a referral. 
+
+## What is the problem with being an indepdendent contractor?
+- Not protected as an employee 
+- Treats the musician as self employed from a tax perspective, but doesn't provide the freedom of true self employment 
+   - Must pay around 15.5% as a self-employment tax for social security and medicare
+   - May have to file quartley taxes
+ - No ability to unioinize
+
 ## For Musicians 
 File a wage complaint or talk to DOL WHD at 1-866-487-9243
 
